@@ -1,3 +1,3 @@
 local bluenet = {}
-bluenet.message = require "bluenet.message"
+bluenet.message = require "bluenet.lib.message"
 return bluenet
